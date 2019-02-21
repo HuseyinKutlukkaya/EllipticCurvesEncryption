@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliptikEğriler", "EliptikEğriler\EliptikEğriler.csproj", "{7E564D34-0100-41F4-B37D-76D7420E777B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Eliptik Eğriler setup", "Eliptik Eğriler setup\Eliptik Eğriler setup.vdproj", "{00CD510C-3628-4F3C-ACE5-B4C213CAF81F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E564D34-0100-41F4-B37D-76D7420E777B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E564D34-0100-41F4-B37D-76D7420E777B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E564D34-0100-41F4-B37D-76D7420E777B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E564D34-0100-41F4-B37D-76D7420E777B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CD510C-3628-4F3C-ACE5-B4C213CAF81F}.Debug|Any CPU.ActiveCfg = Debug
+		{00CD510C-3628-4F3C-ACE5-B4C213CAF81F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
