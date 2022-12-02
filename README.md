@@ -1,7 +1,7 @@
-# EliptikEgrilerleSifreleme
-Olusturulma tarihi:‎7 ‎Mayıs ‎2018
-Eliptik eğrileri kullanarak  şifreleme yapan bir uygulamadır.
-# Eliptik Eğriler Nedir?
-Eliptik eğriler, kübik bir denklemi kareli bir fonksiyon ile  sağlayan noktalar kümesidir.
-  Mevcut kriptografik amaçlar için, bir eliptik eğri, aşağıdaki denklemi sağlayan noktalardan oluşan sonlu cisim (gerçek sayılardan ziyade) üzerinde bir düzlem eğrisidir ve y^2=x^3+ax+b şeklinde gösterilir.Eliptik eğriye yatay eksenden çizilen doğru 3 noktadan kesebilir.
+# Encryption With Elliptic Curves
+Created On :‎7 ‎May 2018
+It is an application that performs encryption using elliptic curves.
+# What are Elliptic Curves?
+Elliptic curves are sets of points that satisfy a cubic equation with a squared function.
+For current cryptographic purposes, an elliptic curve is a plane curve on a finite body (rather than real numbers) consisting of points satisfying the following equation, represented as y^2=x^3+ax+b. A line drawn to the elliptic curve from the horizontal axis can intersect at 3 points.
 
